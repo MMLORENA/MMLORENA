@@ -4,6 +4,7 @@
 - MERN Stack Development 💻🚀
 - Testing with Jest, Testing Library and Cypress 🔬
 - TypeScript & JavaScript.
+- StoryBook & Chromatic.
 - Clean Code and Good Practices 🧼📚
 - Organization and Project Management 📅👥
 - Empathy and Teamwork 🤗💪
