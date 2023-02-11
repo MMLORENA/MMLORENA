@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi everyone👋, I'm Lorena ☺
 
-<!--
-**MMLORENA/MMLORENA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills 💻
+- MERN Stack Development 💻🚀
+- Testing with Jest, Testing Library and Cypress 🔬
+- TypeScript & JavaScript.
+- Clean Code and Good Practices 🧼📚
+- Organization and Project Management 📅👥
+- Empathy and Teamwork 🤗💪
+- Efficient and Results-Driven 🚀✅
 
-Here are some ideas to get you started:
+## Let's Connect!
+Feel free to connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lorenamartinezmoledo/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ask me about... ❓
+
+If you have any questions or suggestions 🤔, feel free to reach out! I am always happy to connect and collaborate with other developers 🤝.
+
